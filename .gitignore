@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+env/
+
+# Ignore Django secret keys and settings
+*.env
+
+# Ignore node_modules in React
+node_modules/
+build/
+
+# Ignore database files
+*.sqlite3
